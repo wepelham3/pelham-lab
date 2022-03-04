@@ -36,9 +36,9 @@ Work will be conducted under the primary supervision of Dr. William Pelham, PhD,
 
 The fellow’s participation in grant writing is optional but encouraged. Pathways to a faculty position at UCSD are available for fellows who secure external funding. The School of Medicine has an exceptional track record of mentoring postdoctoral fellows into funded faculty positions. For example, more than 20 faculty members at UCSD hold active research career development (K) awards from NIDA/NIAAA.
 
-UC San Diego is considered an exempt setting by the California Board of Psychology (https://www.psychology.ca.gov/applicants/index.shtml). Thus, completion of clinical research as part of this fellowship may count toward supervised professional experience (SPE) hours for clinical licensure in the State of California.
+UC San Diego is considered an exempt setting by the California Board of Psychology (<https://www.psychology.ca.gov/applicants/index.shtml>). Thus, completion of clinical research as part of this fellowship may count toward supervised professional experience (SPE) hours for clinical licensure in the State of California.
 
-The position includes a generous benefits package (medical, dental, vision). See https://postdoc.ucsd.edu/postdocs/benefits-services.html for information about benefits.
+The position includes a generous benefits package (medical, dental, vision). See <https://postdoc.ucsd.edu/postdocs/benefits-services.html> for information about benefits.
 
 ---
 
