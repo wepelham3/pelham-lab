@@ -8,7 +8,7 @@
 
 **Location:** Based in San Diego preferred but not required.
 
-**Responsibilities:**	Lead and assist in writing manuscripts conducting secondary data analysis of the ongoing Adolescent Brain and Cognitive Development^SM^ (ABCD) Study.
+**Responsibilities:**	Lead and assist in writing manuscripts conducting secondary data analysis of the ongoing Adolescent Brain and Cognitive Development (ABCD) Study.
 
 **To express interest:** Email William Pelham, PhD (<wpelham@ucsd.edu>) with your curriculum vitae. In the body of the email, state your interest, list contact information for three professional references and describe any relevant qualifications (see below) not visible on the vitae. No further materials are necessary.
 
