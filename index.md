@@ -14,7 +14,7 @@ Now hiring:
 
 **Responsibilities:**	Lead and assist in writing manuscripts conducting secondary data analysis of the ongoing Adolescent Brain and Cognitive DevelopmentSM (ABCD) Study.
 
-**To express interest:** Email William Pelham, PhD (wpelham@ucsd.edu) with your curriculum vitae. In the body of the email, state your interest, list contact information for three professional references and describe any relevant qualifications (see below) not visible on the vitae. No further materials are necessary.
+**To express interest:** Email William Pelham, PhD (<wpelham@ucsd.edu>) with your curriculum vitae. In the body of the email, state your interest, list contact information for three professional references and describe any relevant qualifications (see below) not visible on the vitae. No further materials are necessary.
 
 ---
 
@@ -24,7 +24,7 @@ This position is ideal for a candidate seeking an academic research career and e
 
 **The fellow will be funded on two research projects funded by NIDA and NIAAA, both focused on adolescents.** The first project investigates the role of family processes (e.g., parenting, conflict) in the etiology of drinking, drug use, conduct problems, and delinquency across adolescence. The second project focuses on how the COVID-19 pandemic has affected adolescent drinking and drug use patterns.
 
-**Both projects comprise secondary data analysis of the ongoing (Adolescent Brain and Cognitive Development (ABCD) Study,**)[https://abcdstudy.org/] a national multisite consortium following nearly 12,000 children prospectively from late childhood to young adulthood.
+**Both projects comprise secondary data analysis of the ongoing Adolescent Brain and Cognitive Development (ABCD) Study** a national multisite consortium following nearly 12,000 children prospectively from late childhood to young adulthood (<https://abcdstudy.org/>).
 
 **The fellow’s primary responsibilities will be writing manuscripts and conducting statistical analyses.** The fellow is expected to be a co-author on all manuscripts resulting from the two research projects and to lead their own papers that are consistent with the broader set of Scientific Aims and their own interests. The fellow will not have any duties pertaining to primary data collection (i.e., running participants). The data to be analyzed has already been cleaned by ABCD Study Consortium staff prior to public release. The fellow will not have data management responsibilities beyond restructuring data as necessary for their analyses.
 
