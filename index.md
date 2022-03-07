@@ -44,7 +44,7 @@ The position includes a [generous benefits package](https://postdoc.ucsd.edu/pos
 
 **Preferred qualifications:**
 
-- Evidence of research productivity including multiple first-author publications
+- Evidence of research productivity including first-author publications
 - Training and experience in child/adolescent psychology/psychiatry
 - Training and experience in substance use/addiction and/or conduct problems/delinquency
 - Training and experience in statistical analysis and research design
